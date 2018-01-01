@@ -66,11 +66,6 @@ you can use `zen3d.js` or `zen3d.min.js` in your page simply by this:
 
 zen-3d use JSON([assimp2json](https://github.com/acgessler/assimp2json)) as default supported format of model.
 
-### About Me ###
-
-* Blog: [Half Lab](http://www.halflab.me)
-* Email: shawn0326@163.com
-* Weibo: [@谢帅shawn](http://weibo.com/shawn0326)
 
 [npm-badge]: https://img.shields.io/npm/v/zen-3d.svg
 [npm-badge-url]: https://www.npmjs.com/package/zen-3d
